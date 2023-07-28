@@ -1,7 +1,5 @@
 # I wrote some CSS code to improve the interface.
 <br>
-<br>
-<br>
 Feel free to use it :-)
 <br>
 <br>
