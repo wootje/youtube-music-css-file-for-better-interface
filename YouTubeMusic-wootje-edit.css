@@ -34,11 +34,13 @@ tp-yt-iron-dropdown {
 	margin-bottom:auto!important;
 }
 
-ytmusic-player-queue-item[play-button-state=playing] { 
-	border-color:#e4e4e4d4!important;
-	border-style:solid!important;
-	border-width:thin!important;
-	border-radius:5px!important;
+ytmusic-player-queue-item[play-button-state=paused],
+ytmusic-player-queue-item[play-button-state=playing] {
+    background: #0b4881 !important;
+    border-color: #e4e4e4d4 !important;
+    border-style: solid !important;
+    border-width: thin !important;
+    border-radius: 5px !important;
 }
 
 .left-items.style-scope.ytmusic-player-queue-item,
