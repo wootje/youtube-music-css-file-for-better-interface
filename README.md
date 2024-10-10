@@ -4,6 +4,12 @@ Feel free to use it :-)
 <br>
 <br>
 <br>
+Install this Chrome plugin and copy the CSS code:
+<br>
+https://chromewebstore.google.com/detail/custom-css-by-denis/cemphncflepgmgfhcdegkbkekifodacd
+<br>
+<br>
+<br>
 <img src="YouTubeMusic-wootje-edit.png"></img>
 <br>
 <br>
