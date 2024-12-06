@@ -4,7 +4,7 @@ I had a hard time to found out which song is playing. The YouTube Music interfac
 <br>
 <br>
 <br>
-<b>Install this Chrome plugin and copy the CSS code when you have opened <a href="[https://music.youtube.com)">YouTube Music</a>:</b>
+<b>Install this Chrome plugin and copy the CSS code when you have opened <a href="https://music.youtube.com">YouTube Music</a>:</b>
 <br>
 <a href="https://chromewebstore.google.com/detail/custom-css-by-denis/cemphncflepgmgfhcdegkbkekifodacd" target="_blank">Custom CSS by Denis</a>
 <br>
