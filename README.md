@@ -1,6 +1,6 @@
 # I wrote some CSS code to improve the YouTube Music interface.
 <br>
-Feel free to use it :-)
+I had a hard time to found out which song is playing. The YouTube Music interface is very dark and it is almost impossible ot find the song that is playing in the queue. So I wrote some custom CSS code so it is very easy to find the song that is playing. I also added some highlightning so you it is easier to spot where yur mouse pointer is. Feel free to use it :-)
 <br>
 <br>
 <br>
