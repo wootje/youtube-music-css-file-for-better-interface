@@ -1,4 +1,4 @@
-# I wrote some CSS code to improve the interface.
+# I wrote some CSS code to improve the YouTube Music interface.
 <br>
 Feel free to use it :-)
 <br>
