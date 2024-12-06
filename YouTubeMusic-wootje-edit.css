@@ -62,14 +62,20 @@ yt-formatted-string.duration.style-scope.ytmusic-player-queue-item {
     margin-left: 15px;
 }
 
-ytmusic-nav-bar.style-scope.ytmusic-app {
-    /*background-color: #0b4881;*/
-	background-color: #212121;
-    height: 80px;
-    margin-top: 10px;
-    border-bottom: 2px solid #ef0000ba;
-}
-
 ytmusic-tab-renderer#tab-renderer {
     border-bottom: 5px inset #030303;
+}
+
+ytmusic-two-row-item-renderer:hover,
+ytmusic-responsive-list-item-renderer:hover,
+ytmusic-player-queue-item:hover {
+    background-color: #90909070;
+  	border-radius: 5px;
+}
+
+ytmusic-menu-service-item-renderer:hover,
+ytmusic-toggle-menu-service-item-renderer:hover,
+ytmusic-menu-service-item-download-renderer:hover,
+ytmusic-menu-navigation-item-renderer:hover {
+    background: #1c305b !important;
 }
