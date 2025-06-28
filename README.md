@@ -14,6 +14,8 @@ I had a hard time to found out which song is playing. The YouTube Music interfac
 https://urlshrt.eu/buycupofcoffee
 <br>
 <br>
+<img src="https://urlshrt.eu/donateqr"></img>
+<br>
 <br>
 <br>
 <b>Screenshots below are made with the new CSS code:</b>
