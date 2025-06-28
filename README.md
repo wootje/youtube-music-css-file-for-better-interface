@@ -10,6 +10,11 @@ I had a hard time to found out which song is playing. The YouTube Music interfac
 <br>
 <br>
 <br>
+<b>Buy me a cup of coffee!</b> 🙂👍 <br>
+https://urlshrt.eu/buycupofcoffee
+<br>
+<br>
+<br>
 <b>Screenshots below are made with the new CSS code:</b>
 <br>
 <br>
