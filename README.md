@@ -5,13 +5,26 @@ I had a hard time to found out which song is playing. The YouTube Music interfac
 <br>
 <br>
 <b>Option 1: </b><br>
-Install this Chrome plugin and copy the CSS code when you have opened <a href="https://music.youtube.com">YouTube Music</a>:</b>
-<br>
-<a href="https://chromewebstore.google.com/detail/custom-css-by-denis/cemphncflepgmgfhcdegkbkekifodacd" target="_blank">Custom CSS by Denis</a>
+- Install this Chrome plugin:</b> <a href="https://urlshrt.eu/customcsschromeaddon" target="_blank">https://urlshrt.eu/customcsschromeaddon</a></br>
+- Open <a href="https://music.youtube.com">YouTube Music</a>
+- Open the addon in Chrome.</br>
+- Copy the CSS code. </br>
+- Save the settings. </br>
+- Refresh webpage.
 <br>
 <br>
 <br>
 <b>Option 2: </b><br>
+- Install this Chrome plugin:</b> <a href="https://urlshrt.eu/customcssfirefoxaddon" target="_blank">https://urlshrt.eu/customcssfirefoxaddon</a></br>
+- Open <a href="https://music.youtube.com">YouTube Music</a>
+- Open the addon inFirefox.</br>
+- Copy the CSS code. </br>
+- Save the settings. </br>
+- Refresh webpage.
+<br>
+<br>
+<br>
+<b>Option 3: </b><br>
 YouTube Music desktop app: <br>
 - Download the latest release: https://urlshrt.eu/ytmusicdesktop<br>
 - Open the app.<br>
