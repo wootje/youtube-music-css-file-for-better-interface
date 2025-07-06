@@ -35,7 +35,8 @@ tp-yt-iron-dropdown {
 }
 
 ytmusic-player-queue-item[play-button-state=paused],
-ytmusic-player-queue-item[play-button-state=playing] {
+ytmusic-player-queue-item[play-button-state=playing],
+[play-button-state="playing"] {
     background: #0b4881 !important;
     border-color: #e4e4e4d4 !important;
     border-style: solid !important;
@@ -79,3 +80,6 @@ ytmusic-menu-service-item-download-renderer:hover,
 ytmusic-menu-navigation-item-renderer:hover {
     background: #1c305b !important;
 }
+
+/*play-button-state="playing" {
+}*/
