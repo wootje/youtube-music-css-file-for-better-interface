@@ -15,7 +15,7 @@ I had a hard time to found out which song is playing. The YouTube Music interfac
 <br>
 <br>
 <b>Option 2: </b><br>
-- Install this Chrome plugin:</b> <a href="https://urlshrt.eu/customcssfirefoxaddon" target="_blank">https://urlshrt.eu/customcssfirefoxaddon</a></br>
+- Install this Firefox plugin: <a href="https://urlshrt.eu/customcssfirefoxaddon" target="_blank">https://urlshrt.eu/customcssfirefoxaddon</a></br>
 - Open <a href="https://music.youtube.com">YouTube Music</a>
 - Open the addon inFirefox.</br>
 - Copy the CSS code. </br>
